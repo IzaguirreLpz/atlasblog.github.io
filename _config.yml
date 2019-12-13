@@ -100,7 +100,6 @@ theme: ocean
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://izaguirrelpz.github.io/atlasblog # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  repo: https://izaguirrelpz.github.io/atlasblog.github.io # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: master
-  github-token: 79f7f28d0adcfc24504259c04dea0b1aff46f2c5 
   message: hola mundo
